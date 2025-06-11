@@ -34,7 +34,7 @@ Currently, the Epic Games Store website doesn't provide a direct way to access y
 ## Installation
 
 ### Chrome Web Store
-1. Visit the [Chrome Web Store](https://chrome.google.com/webstore) (link coming soon)
+1. Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/hfhellofkjebbchcdffmicekjdomkcmc?utm_source=item-share-cb)
 2. Click "Add to Chrome"
 3. Confirm the installation
 
