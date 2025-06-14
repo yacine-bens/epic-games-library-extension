@@ -26,10 +26,10 @@ Currently, the Epic Games Store website doesn't provide a direct way to access y
 
 ## Screenshots
 
-![Screenshot_1.png](/public/images/Screenshot_1.png)
-![Screenshot_3.png](/public/images/Screenshot_3.png)
-![Screenshot_4.png](/public/images/Screenshot_4.png)
-![Screenshot_5.png](/public/images/Screenshot_5.png)
+![Screenshot_1.png](./images/Screenshot_1.png)
+![Screenshot_3.png](./images/Screenshot_3.png)
+![Screenshot_4.png](./images/Screenshot_4.png)
+![Screenshot_5.png](./images/Screenshot_5.png)
 
 ## Installation
 
