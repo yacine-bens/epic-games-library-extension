@@ -46,7 +46,7 @@ export default defineConfig({
   manifest: ({ browser, manifestVersion }) => ({
     name: 'Epic Games Library Extension',
     description: 'Show library of owned games in Epic Games Store.',
-    version: '0.1.0',
+    version: '0.1.1',
     ...perBrowserManifest[browser][manifestVersion],
   }),
 });
