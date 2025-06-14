@@ -75,7 +75,7 @@ const darkGamingTheme = createTheme({
 
 const GITHUB_REPO = "https://github.com/yacine-bens/epic-games-library-extension";
 const CWS_LINK = "https://chromewebstore.google.com/detail/hfhellofkjebbchcdffmicekjdomkcmc?utm_source=item-share-cb";
-const AMO_LINK = "https://github.com/yacine-bens/epic-games-library-extension";
+const AMO_LINK = "https://addons.mozilla.org/en-US/firefox/addon/epic-games-library-extension/";
 
 export default function WelcomePage() {
   const handleGitHubClick = () => {

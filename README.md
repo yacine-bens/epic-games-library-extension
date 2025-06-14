@@ -39,7 +39,7 @@ Currently, the Epic Games Store website doesn't provide a direct way to access y
 3. Confirm the installation
 
 ### Firefox Add-ons
-1. Visit [Firefox Add-ons](https://addons.mozilla.org) (link coming soon)
+1. Visit [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/epic-games-library-extension/)
 2. Click "Add to Firefox"
 3. Confirm the installation
 
